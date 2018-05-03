@@ -1,6 +1,3 @@
-# Machine-Learning
-Course Project for CS651
-
 This paper presents the use of machine learning for categorization of feedbacks as well as sentiment analysis of feedbacks in any respective domain. The text is used for generating quantitative representation of feedbacks. Does not only identify the polarity of a feedback but also identifies the extent of how positive or negative a feedback is. The project focuses on student feedbacks on instructors of various courses taken up during the semester.
 The attached code is a Python implementation of a dictionary-based sentiment classification procedure which combines two different bootstrapping procedures, namely for subjectivity and polarity detection.
 
